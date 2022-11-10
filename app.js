@@ -1,3 +1,4 @@
+/*
 class Casino {
     constructor(name, booli) {
         this.name = name
@@ -50,4 +51,4 @@ console.log(myExtraBonusCasino);
 myExtraBonusCasino.rollDie(6);
 myExtraBonusCasino.rollDie(20);
 myExtraBonusCasino.rollDie(100);
-
+*/
